@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "hoa"
+AuthUserFile "/home/santa/.htpasswds/public_html/hoa/passwd"
+require valid-user
+
+# BEGIN WordPress
+
+# END WordPress
